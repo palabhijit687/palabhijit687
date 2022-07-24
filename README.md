@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*v8Z6faF7ij8iSwunSMcTZA.gif)](https://palabhijit687.io)
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palabhijit687&label=Profile%20views&color=0e75b6&style=flat" alt="palabhijit687" /> </p>
 
