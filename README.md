@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palabhijit687" alt="palabhijit687" /></a> </p>
 
-- 🔭 I’m currently working on [Flight Reservation System](https://github.com/palabhijit687/FlightReservationApplication)
+- 🔭 I’m currently working on [Employee Management System]([https://github.com/palabhijit687/FlightReservationApplication](https://github.com/palabhijit687/Employee-Management-System))
 
 - 🌱 I’m currently learning **Spring, Struts, ExtJs, Hibernate, JDBC, MySql**
 
